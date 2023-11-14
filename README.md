@@ -30,4 +30,4 @@
 
 </div>
 
-![Snake animation](https://github.com/paulowh/paulowh/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/paulowh/paulowh/blob/output/github-contribution-grid-snake.svg) -->
