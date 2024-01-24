@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Paulo
 
 - 💻 Programador de sistemas Web
-- 🌱 Estudante de Segurança da Informação 5/6 @FATEC
 - 📫 Contate-me: paulo.whsantos@hotmail.com
 
 <div align="center">
