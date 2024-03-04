@@ -43,28 +43,20 @@ class Skills extends Desenvolvedor {
 <br>
 <div style="display: inline_block">
 
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
-![JQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
-![GIT](https://img.shields.io/badge/GIT-333333?style=flat&logo=git)
-![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=Laravel)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=Windows&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
+  ![JQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
+  ![GIT](https://img.shields.io/badge/GIT-333333?style=flat&logo=git)
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=Laravel)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=Windows&logoColor=00599C)
 
-</div>
-
-##
-
-<div>
-  <a href = "mailto:paulo.whsantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/paulowh" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/paulo.wh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
