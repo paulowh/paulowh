@@ -1,32 +1,39 @@
-## Olá! Eu sou o Paulo
+# Olá! Eu sou o Paulo
 
 ```php
 require_once "PauloSantos.php";
 
 class SobreMim extends Desenvolvedor {
-  public $nome = "Seu nome";
-  public $area = "Sua área";
-  public $trabalho = "Onde trabalha";
-  public $local = "Local";
+  public $nome = "Paulo H. Santos";
+  public $area = "Docente / Dev. Fullstack";
+  public $contato = [
+      "paulo.whsantos@hotmail.com",
+      "linkedin.com/in/paulowh/",
+      "instagram.com/paulo.wh",
+      "paulowh.com"
+    ];
+  public $trabalho = "Senac";
+  public $local = "Americana/SP";
 }
 
 class Skills extends Desenvolvedor {
   public $linguagens = [
-      "php",
+      "C#",
       "java",
       "javaScript",
-      "C#",
+      "php",
       "python"
     ];
   public $bibliotecas = ["JQuery"];
   public $frameworks = [
       "bootstrap",
-      "Semantic UI",
-      "ReactJS",
       "Laravel",
+      "ReactJS",
+      "Semantic UI"
     ];
 }
 ```
+
 <div align="center">
   <a href="https://github.com/paulowh"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -35,14 +42,24 @@ class Skills extends Desenvolvedor {
 
 <br>
 <div style="display: inline_block">
-  <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paulo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Paulo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Paulo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-  <img align="center" alt="Paulo-REACTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-</div> 
+
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/jquery-333333?style=flat&logo=jquery)
+![GIT](https://img.shields.io/badge/GIT-333333?style=flat&logo=git)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=Laravel)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=Linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=Windows&logoColor=00599C)
+
+</div>
 
 ##
 
