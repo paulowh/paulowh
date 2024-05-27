@@ -24,7 +24,7 @@ class Skills extends Desenvolvedor {
       "php",
       "python"
     ];
-  public $bibliotecas = ["JQuery", "Django"];
+  public $bibliotecas = ["JQuery"];
   public $frameworks = [
       "bootstrap",
       "Laravel",
