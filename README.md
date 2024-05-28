@@ -30,7 +30,7 @@ class Skills extends Desenvolvedor {
       "Laravel",
       "ReactJS",
       "Semantic UI",
-      "spring boot"
+      "Spring Boot"
     ];
 }
 ```
