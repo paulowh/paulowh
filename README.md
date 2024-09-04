@@ -34,13 +34,13 @@ class Skills extends Desenvolvedor {
     ];
 }
 ```
-
+<!--
 <div align="center">
   <a href="https://github.com/paulowh"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowh&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
+-->
 <br>
 <div style="display: inline_block">
 
@@ -61,3 +61,5 @@ class Skills extends Desenvolvedor {
   ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=Windows&logoColor=00599C)
 
 </div>
+
+## Compartilhando o conhecimento: [wiki](https://github.com/paulowh/paulowh/wiki)
