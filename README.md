@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
       "paulo.whsantos@hotmail.com",
       "linkedin.com/in/paulowh/",
       "instagram.com/paulo.wh",
-      "paulowh.com"
+      "paulowh.github.io"
     ];
   public $trabalho = "Senac";
   public $local = "Americana/SP";
