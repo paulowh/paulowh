@@ -12,8 +12,8 @@ class SobreMim extends Desenvolvedor {
       "instagram.com/paulo.wh",
       "paulowh.github.io"
     ];
-  public $trabalho = ["Senac"];
-  public $local = ["Americana/SP"];
+  public $trabalho = "Senac";
+  public $local = "Americana/SP";
 }
 
 class Skills extends Desenvolvedor {
