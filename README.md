@@ -35,7 +35,7 @@ class Skills extends Desenvolvedor {
 }
 ``` -->
 
-<img align="left" alt="Coding" width="160" 
+<img align="left" alt="Coding" width="100" 
      src="./img/perfil.jpeg" 
      style="margin-left: 20px; border-radius: 10px;">
 
