@@ -34,32 +34,23 @@ class Skills extends Desenvolvedor {
     ];
 }
 ``` -->
-<section style="display: flex; align-items: center; gap: 20px;">
-  <!-- Texto de apresentação -->
-  <main>
-    <img src="./img/perfil.jpeg" alt="Foto de Paulo Santos" style="width: 200px; border-radius: 10px;">
-  </main>
-  <main style="max-width: 600px;">
-    <p>
-      🧠 <strong>Docente de Programação</strong> no <strong>Senac Americana</strong><br>
-      🚀 Apaixonado por tecnologia, café forte e desafios que fazem o cérebro dar aquele nó.
-    </p>
-    <p> Aqui você vai encontrar projetos que misturam ensino, prática e uma pitada de curiosidade.<br>
-    Gosto de transformar conceitos complexos em algo simples, divertido e útil — seja em sala de aula ou no terminal.
-    </p>
-    <p>
-      Se você curte código limpo, boas ideias e um pouco de humor no meio dos commits, seja bem-vindo ao meu repositório! 😄
-    </p>
-  </main>
-</section>
 
-<br>
+<img align="left" alt="Coding" width="160" 
+     src="./img/perfil.jpeg" 
+     style="margin-left: 20px; border-radius: 10px;">
 
-<div align="center">
-  <a href="https://github.com/paulowh"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowh&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+<p align="left">
+    <blockquote>
+        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Paulo Santos</strong>! Sou <strong>docente de Programação</strong> no <strong>Senac Americana</strong> e também atuo como <strong>programador</strong>. Tenho uma paixão enorme por tecnologia e ensino gosto de transformar códigos em conhecimento e desafios em diversão! 💡💻
+    </blockquote>
+</p>
+
+<p align="left">
+    <blockquote>
+        &nbsp;&nbsp;&nbsp;🚀 Estou sempre explorando novas linguagens, frameworks e ferramentas para manter meu repertório afiado. Curto compartilhar experiências com a comunidade tech, aprender com os outros e ficar por dentro das tendências que estão moldando o futuro da programação. 📚🧠
+    </blockquote>
+</p>
+
 
 <br>
 <div align="center" style="display: inline_block">
