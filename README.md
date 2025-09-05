@@ -34,7 +34,6 @@ class Skills extends Desenvolvedor {
     ];
 }
 ``` -->
-
 <img align="left" alt="Coding" width="160" 
      src="./img/perfil.jpeg" 
      style="margin-left: 20px; border-radius: 10px;">
@@ -51,6 +50,13 @@ class Skills extends Desenvolvedor {
     </blockquote>
 </p>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/paulowh"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowh&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 <br>
 <div align="center" style="display: inline_block">
