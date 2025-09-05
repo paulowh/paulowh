@@ -43,11 +43,12 @@ class Skills extends Desenvolvedor {
 -->
 <br>
 <div style="display: inline_block">
-
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+    <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+    <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
