@@ -1,6 +1,6 @@
 # Olá! Eu sou o Paulo
 
-<!-- ```php
+```php
 require_once "PauloSantos.php";
 
 class SobreMim extends Desenvolvedor {
@@ -33,30 +33,7 @@ class Skills extends Desenvolvedor {
       "Spring Boot"
     ];
 }
-``` -->
-<img align="left" alt="Coding" width="160" 
-     src="./img/perfil.png" 
-     style="margin-left: 20px; border-radius: 10px;">
-
-<p align="left">
-    <blockquote>
-        &nbsp;&nbsp;&nbsp;🖐🏼 Olá, eu me chamo <strong>Paulo Santos</strong>! Sou <strong>docente de Programação</strong> no <strong>Senac Americana</strong> e também atuo como <strong>programador</strong>. Tenho uma paixão enorme por tecnologia e ensino gosto de transformar códigos em conhecimento e desafios em diversão! 💡💻
-    </blockquote>
-</p>
-
-<p align="left">
-    <blockquote>
-        &nbsp;&nbsp;&nbsp;🚀 Estou sempre explorando novas linguagens, frameworks e ferramentas para manter meu repertório afiado. Curto compartilhar experiências com a comunidade tech, aprender com os outros e ficar por dentro das tendências que estão moldando o futuro da programação. 📚🧠
-    </blockquote>
-</p>
-
-<br>
-<div align="center">
-  <a href="https://github.com/paulowh"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulowh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulowh&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
+```
 <br>
 <div align="center" style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo" />
